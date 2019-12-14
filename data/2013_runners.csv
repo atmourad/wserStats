@@ -1,0 +1,409 @@
+first,last,gender,age,city,state,country,bib
+Cowman,A-Moo-Ha's,M,69,Kailua-Kona,HI,United States,00
+John,Adamof,M,44,Raleigh,NC,United States,40
+Dennis,Ahern,M,55,Boise,ID,United States,41
+Gordy,Ainsleigh,M,66,Meadow Vista,CA,United States,0
+Colin,Alley,M,44,San Francisco,CA,United States,42
+Adam,Allie,M,33,Mt Pleasant,SC,United States,215
+Jeremy,Alsop,M,29,Mooresville,NC,United States,43
+Bo,Andersen,M,54,Den Haag,International,Netherlands,44
+Philip,Anthony,M,42,Costa Mesa,CA,United States,46
+Meghan,Arbogast,F,52,Corvallis,OR,United States,F10
+Barbara,Ashe,F,64,Lotus,CA,United States,64
+Bob,Ayers Jr.,M,52,Colchester,VT,United States,47
+Janeth,Badaracco,F,43,Pacifica,CA,United States,49
+Jeff,Barbier,M,48,Rancho Cordova,CA,United States,59
+Lori,Barekman,F,52,Santa Rosa,CA,United States,68
+Dan,Barger,M,47,Auburn,CA,United States,88
+Christopher,Barnwell,M,43,Keller,TX,United States,71
+Joshua,Barringer,M,30,Vancouver,BC,Canada,206
+Timothy,Barry,M,52,Colorado Springs,CO,United States,72
+Adam,Barstad,M,37,Glendale,AZ,United States,417
+Ben,Bartley,M,29,Bloomington,IN,United States,75
+Chris,Basford,M,51,Newport News,VA,United States,81
+Keith,Bauer,M,34,Folsom,CA,United States,84
+Quent,Bearden,M,38,Lubbock,TX,United States,87
+Mark,Becker,M,23,Fergus Falls,MN,United States,90
+Jennifer,Benna,F,33,Reno,NV,United States,99
+Gary,Bennington,M,53,Ste Agathe Des Monts,QC,Canada,337
+Vineer,Bhansali,M,47,Laguna Beach,CA,United States,444
+Andy,Black,M,55,Oakland,CA,United States,91
+Stuart,Blofeld,M,34,Leighton Buzzard,International,Great Britain,92
+Keith,Blom,M,56,San Jose,CA,United States,56
+Wade,Blomgren,M,52,San Diego,CA,United States,96
+Jerry,Bloom,M,60,Shingle Springs,CA,United States,60
+Andre,Blumberg,M,43,Bangkok,International,Thailand,93
+Jesse,Boisaubin,M,33,Portland,OR,United States,94
+Rory,Bosio,F,28,Soda Springs,CA,United States,F2
+Denise,Bourassa,F,43,Bend,OR,United States,11
+West,Bourgault,M,36,Auburn,CA,United States,98
+Dylan,Bowman,M,27,Aspen,CO,United States,M7
+Sarah,Bradham,F,37,Portland,OR,United States,102
+Bernt,Bratsberg,M,53,Oslo,International,Norway,104
+Steve,Bremner,M,58,Manitou Springs,CO,United States,58
+Dan,Brenden,M,62,Phoenix,AZ,United States,105
+Trent,Briney,M,34,Boulder,CO,United States,23
+Daniel,Brockman,M,48,Rocklin,CA,United States,106
+Mike,Brown,M,41,Calgary,AB,Canada,108
+Ben,Brucker,M,35,Springdale,PA,United States,109
+Kerrie,Bruxvoort,F,36,Broomfield,CO,United States,54
+Larry,Buchanan,M,42,Portland,OR,United States,112
+Matthew,Bucklin,M,33,Missoula,MT,United States,199
+Jack,Burdick,M,22,Birchwood,WI,United States,110
+Denise,Burley,F,42,Portland,OR,United States,115
+John,Burton,M,40,San Jose,CA,United States,119
+Michael,Campian,M,31,San Diego,CA,United States,122
+Liza,Canowitz,F,37,New Albany,OH,United States,124
+Daniel,Cartica,M,25,Camp Pendleton,CA,United States,126
+John,Catts,M,59,Nicasio,CA,United States,146
+Robert,Chalfant,M,44,Auburn,CA,United States,127
+Michael,Chase,M,43,Centerpoint,AL,United States,128
+Rod,Chiasson,M,43,Edmonton,AB,Canada,129
+Jacqueline,Choi,F,32,Leonia,NJ,United States,314
+Sung Ho,Choi,M,37,Jacksonville,FL,United States,130
+Garret,Christensen,M,33,Swarthmore,PA,United States,133
+Esther,Christianson,F,30,Anchorage,AK,United States,134
+Mary,Churchill,F,37,San Rafael,CA,United States,135
+Rhonda,Claridge,F,45,Ophir,CO,United States,16
+Nick,Clark,M,39,Fort Collins,CO,United States,M3
+Cameron,Clayton,M,24,Boulder,CO,United States,17
+John,Cobbs,M,51,Birmingham,AL,United States,151
+Lee,Conner,F,40,Cleveland,OH,United States,34
+Colleen,Conners-Pace,F,56,Tahoe City,CA,United States,80
+Denis,Cook,M,30,Seattle,WA,United States,136
+Edwin,Cook,M,58,Chicago,IL,United States,139
+Graham,Cooper,M,43,Piedmont,CA,United States,29
+Catra,Corbett,F,48,Fremont,CA,United States,333
+Tim,Corliss,M,41,Livermore,CA,United States,86
+Carl,Costas,M,45,Roseville,CA,United States,141
+Robert,Costello,M,32,Dundrum,International,Ireland,143
+Rafael,Covarrabias,M,44,Huntington Beach,CA,United States,144
+Skip,Crockett,M,32,Sacramento,CA,United States,157
+Peter,Cross,M,33,La Canada,CA,United States,145
+Reiko,Cyr,F,45,New York,NY,United States,147
+Joseph,Czabaranek,M,28,Shalimar,FL,United States,149
+Leila,Degrave,F,35,Evergreen,CO,United States,15
+Patrick,Delaney,M,38,Wheatland,CA,United States,152
+Yassine,Diboun,M,34,Portland,OR,United States,12
+Josh,Dickson,M,29,Washington,DC,United States,153
+Randy,Dietz,M,63,Harrisburg,PA,United States,63
+Franz,Dill,M,37,Montara,CA,United States,154
+Christopher,Dingman,M,31,Dubois,WY,United States,155
+Jay,Dobrowalski,M,34,Moorpark,CA,United States,156
+Jay,Donosky,M,43,Flagstaff,AZ,United States,158
+Lisa,Downey,F,50,Rancho Cordova,CA,United States,316
+Randy,Duncan,M,51,Victoria,BC,Canada,160
+Anthony,Dunnigan,M,40,Palo Alto,CA,United States,161
+Moondoggy Dean,Dyatt,M,51,Fruit Heights,UT,United States,163
+James,Ehasz,M,60,Parker,AZ,United States,164
+Stephen,England,M,33,Ny,NY,United States,165
+Emily,Evans,F,36,Flagstaff,AZ,United States,166
+Gus,Exarchos,M,44,El Dorado Hills,CA,United States,407
+Peter,Fain,M,41,Truckee,CA,United States,167
+Traci,Falbo,F,41,Charlestown,IN,United States,170
+Bruce,Falzarano,M,54,Roseville,CA,United States,171
+Shannon,Farar-Griefer,F,52,Hidden Hills,CA,United States,52
+Galen,Farris,M,31,Sacramento,CA,United States,172
+Bradley,Fenner,M,48,Tiburon,CA,United States,173
+Joshua,Finger,M,40,Spring City,PA,United States,174
+Michael,Fink,M,44,Lincoln,CA,United States,175
+Timothy,Fitzpatrick,M,52,Larkspur,CA,United States,176
+David,Flowerday,M,58,County Antrim,International,Ireland,200
+Lance,Fong,M,52,Piedmont,CA,United States,177
+Colleen,Ford,F,51,Salt Lake City,UT,United States,178
+Bruce,Fordyce,M,58,Johannesburg,International,South Africa,25
+John,Fors,M,46,Menlo Park,CA,United States,179
+Ryan,Foster,M,32,Bowie,MD,United States,181
+Terry,Foust,M,50,Kaysville,UT,United States,182
+Don,Freeman,M,49,Roseville,CA,United States,183
+Lon,Freeman,M,38,Kensington,CA,United States,184
+Jamie,Frink,F,40,Folsom,CA,United States,185
+Chihping,Fu,M,47,Fremont,CA,United States,186
+Frank,Fumich,M,45,Arlington,VA,United States,187
+Jared,Gagnon,M,38,Folsom,CA,United States,300
+Susan,Gallup,F,49,Calgary,AB,Canada,188
+Chris,Garcia,M,50,Menlo Park,CA,United States,189
+Florencia,Gascon-Amyx,F,48,Mill Valley,CA,United States,190
+Rick,Gates,M,56,Salt Lake City,UT,United States,192
+Topher,Gaylord,M,43,Kentfield,CA,United States,35
+Linda,Gaudette,F,49,Falls Church,VA,United States,193
+Tim,Gavin,M,45,Jarrettsville,MD,United States,194
+Vince,Gerber,M,58,Estes Park,CO,United States,195
+John,Gieng,M,34,San Francisco,CA,United States,196
+Nicola,Gildersleeve,F,29,North Vancouver,BC,Canada,197
+Shawn,Goertz,M,41,Columbia,MO,United States,198
+Ken,Gordon,M,48,Albuquerque,NM,United States,118
+Adam,Gothelf,M,33,San Francisco,CA,United States,201
+Gilbert,Gray,M,51,Greenbelt,MD,United States,202
+Thomas,Green,M,62,Columbia,MD,United States,203
+Ellie,Greenwood,F,34,North Vancouver,BC,Canada,F1
+Steven,Greuel,M,56,Etna,CA,United States,204
+Jon,Grindy,M,30,Roseville,CA,United States,205
+Felipe,Guardia,M,37,Medley,International,Costa Rica,207
+Michael,Guilford,M,37,Meriden,CT,United States,208
+Nathan,Hahn,M,42,Portland,OR,United States,209
+Megan,Hall,F,24,Oak Harbor,WA,United States,19
+Wouter,Hamelinck,M,31,Merelbeke,International,Belgium,210
+Leon Skriver,Hansen,M,41,,International,Denmark,212
+Greg,Harfst,M,35,New York,NY,United States,256
+Tim,Harrington,M,43,Conway,AR,United States,213
+Emily,Harrison,F,27,Front Royal,VA,United States,113
+Jeffery,Hart,M,44,State College,PA,United States,214
+John,Hart,M,46,Missoula,MT,United States,216
+G Geraline,Harvey,F,47,Pickering,ON,Canada,217
+Tony,Hawkes,M,47,Olympia,WA,United States,220
+Matt,Hawkins,M,40,Franklin,TN,United States,221
+Jesse,Haynes,M,40,Capistrano Beach,CA,United States,69
+Chris,Hays,M,41,Los Angeles,CA,United States,224
+Will,Hayward,M,45,Hong Kong,International,Hong Kong,180
+Jonathan,Heinz,M,24,Calgary,AB,Canada,225
+Jennifer,Henderson,F,54,Barstow,CA,United States,226
+Rich,Henderson,M,57,Solon,OH,United States,227
+Stephany,Hiller,F,49,Palo Alto,CA,United States,228
+Anthony,Holly,M,29,Fair Oaks,CA,United States,229
+Steve,Holman,M,56,Oakland,CA,United States,230
+Gregory,Holmes,M,50,Antelope,CA,United States,74
+Gregg,Holst,M,54,Newtown,PA,United States,231
+Rob,Houghton,M,56,Murphys,CA,United States,232
+Thomas,Huber,M,27,Arllington,VA,United States,315
+Jeremy,Humphrey,M,34,McCall,ID,United States,21
+David,Huss,M,29,Winchester,MA,United States,233
+William,Ieuter,M,50,Wilmette,IL,United States,218
+Koichi,Iwasa,M,42,Kamakura,International,Japan,234
+Brian,Janecek,M,36,Hillsboro,OR,United States,235
+Mark,Jaxion,M,33,Bristol,International,Great Britain,424
+Donovan,Jenkins,M,31,Los Angeles,CA,United States,236
+Anthony,Johnson,M,47,Citrus Heights,CA,United States,237
+Jeffery,Johnston,M,48,Lincoln,CA,United States,239
+Charley,Jones,M,41,Folsom,CA,United States,260
+Jeffrey,Jones,M,39,Birmingham,AL,United States,240
+Ryan,Jones,M,33,Morrisville,PA,United States,241
+Andy,Jones-Wilkins,M,45,Charlottesville,VA,United States,45
+Will,Jorgensen,M,54,Maryville,TN,United States,242
+Boris,Juarez,M,41,Guatemala,International,Guatemala,243
+Nicholas,Kaiser,M,58,Honolulu,HI,United States,244
+Behnam,Kamrani,M,38,Ann Arbor,MI,United States,246
+Mark,Kauffman,M,42,Roseville,CA,United States,248
+Mick,Keane,M,46,Reno,NV,United States,89
+Zachary,Keefer,M,31,Enterprise,AL,United States,249
+Kai,Keliikuli,M,44,Waterford,MI,United States,250
+Matt,Keyes,M,39,Auburn,CA,United States,39
+Sigurdur,Kiernan,M,43,Reykjavik,International,Iceland,251
+Nikki,Kimball,F,42,Bozeman,MT,United States,F5
+Justin,Klebe,M,40,Laurel,MT,United States,252
+Hal,Koerner,M,37,Ashland,OR,United States,13
+Susan,Kokesh,F,46,Lake Oswego,OR,United States,253
+Pete,Korn,M,48,Auburn,CA,United States,48
+Rob,Krar,M,36,Flagstaff,AZ,United States,33
+Patrick,Krott,M,29,Fairview,PA,United States,254
+Dougie,Kyle,M,28,Napier,International,New Zealand,301
+Bruce,Labelle,M,57,Davis,CA,United States,57
+Scott,Laberge,M,56,San Mateo,CA,United States,255
+Daniel,Labrecque,M,57,Chapel Hill,NC,United States,162
+Bree,Lambert,F,44,San Jose,CA,United States,245
+Greg,Lanctot,M,44,Los Gatos,CA,United States,191
+Kathie,Lang,F,63,Klamath Falls,OR,United States,257
+Mark,Lantz,M,47,Gold River,CA,United States,20
+Aliza,Lapierre,F,33,Williston,VT,United States,F3
+Jason,Laplant,M,34,Minneapolis,MN,United States,73
+Nicholas,Laughton,M,35,Fernley,NV,United States,258
+Todd,Law,M,45,San Rafael,CA,United States,67
+Jon,Lawler,M,49,Knoxville,TN,United States,259
+Adrian,Lazar Adler,M,33,Fourways,International,South Africa,261
+Alberto,Lazzerini,M,41,Sesto Fiorentino,International,Italy,262
+Kenneth,Letterle,M,30,Yanbu,International,Saudi Arabia,263
+Tina,Lewis,F,40,Boulder,CO,United States,F7
+Miles,Lilly,M,46,Bend,OR,United States,264
+Erika,Lindland,F,31,Fairfax,CA,United States,131
+Ron,Little,M,42,Montara,CA,United States,265
+Henry,Liu,M,37,Fremont,CA,United States,266
+Karen,Lozano,F,54,Modesto,CA,United States,267
+Andre,Lubeseder,M,44,Hamburg,International,Germany,268
+Ryan,Lund,M,38,Meridian,ID,United States,269
+Dave,Mackey,M,43,Boulder,CO,United States,M4
+Ian,Maddieson,M,70,Albuquerque,NM,United States,70
+Glen,Mangiantini,M,55,Bellevue,WA,United States,307
+Jorge,Maravilla,M,35,Vallejo,CA,United States,M8
+Dominik,Marfurt,M,29,Reinach,International,Switzerland,270
+Kelvin,Marshall,M,49,Palm Beach,International,Australia,65
+Roger,Martell Jr.,M,41,Beverly,MA,United States,271
+John,Martinek,M,26,North Richland Hills,TX,United States,272
+Pedro,Martinez,M,27,Van Nuys,CA,United States,273
+Alex,May,M,39,Fort Collins,CO,United States,274
+Steve,McCluhan,M,52,Clayton,CA,United States,275
+Alex,McDaniel,M,35,New Haven,CT,United States,276
+Grant,McFadden,M,41,Penrith,International,Australia,277
+Linda,McFadden,F,50,Modesto,CA,United States,278
+Tim,McGargill,M,31,Omaha,NE,United States,402
+Caroline,McKay,F,30,Edinburgh,International,Great Britain,83
+Ken,McKee,M,42,Folsom,CA,United States,279
+Mike,McMonagle,M,22,Bel Air,MD,United States,280
+Abby,McQueeney penamonte,F,30,Denver,CO,United States,281
+Adam,McRoberts,M,38,Boulder,CO,United States,282
+Paulo,Medina,M,29,Lima-Brena,International,Peru,100
+Karl,Meltzer,M,45,Sandy,UT,United States,420
+Annette,Mensonides,F,42,Roseville,CA,United States,142
+Kate,Merrill,F,50,Astoria,OR,United States,283
+Jeremy,Meyers,M,42,Cool,CA,United States,284
+Melanie,Michalak,F,29,Santa Cruz,CA,United States,285
+Aaron,Miller,M,39,Fair Oaks,CA,United States,286
+Brian,Miller,M,37,El Dorado Hills,CA,United States,287
+Michael,Miller,M,51,Scottsdale,AZ,United States,288
+Scott,Mills,M,62,Oceanside,CA,United States,62
+Mike,Molakides,M,44,San Rafael,CA,United States,95
+Amber,Monforte,F,35,South Lake Tahoe,CA,United States,111
+Miguel,Montealvo,M,22,Austin,TX,United States,289
+Deano,Montreuil,M,45,Suwanee,GA,United States,290
+Gerardo,Moreno,M,28,Nacogdoches,TX,United States,291
+Mike,Morton,M,41,Lithia,FL,United States,27
+Siamak,Mostoufi,M,39,Chicago,IL,United States,293
+Chris,Mottola,M,24,Bozeman,MT,United States,406
+Simon,Mtuy,M,41,Moshi,International,Tanzania,247
+Robert,Mueller,M,26,Salt Lake City,UT,United States,294
+Sean,Mullett,M,45,Jasper,GA,United States,412
+Mark,Nassi,M,46,San Francisco,CA,United States,296
+Nattu,Natraj,M,50,West Sacramento,CA,United States,297
+Olga,Nevtrinos,F,31,Newcastle,WA,United States,298
+Jill,Newton,F,41,Kingsburg,CA,United States,299
+John,Nichols,M,48,El Dorado Hills,CA,United States,292
+Jose,Nicolas,M,45,Singapore,International,Singapore,302
+Ashley,Nordell,F,33,Sisters,OR,United States,F9
+Eric,Nordgren,M,28,Duluth,MN,United States,125
+Chris,O'brien,M,56,Lincoln,CA,United States,222
+Charles,Oatman,M,61,Etobicoke,ON,Canada,303
+Octavio,Ocampo,M,36,Guadalajara,International,Mexico,304
+Mark,Olson,M,66,Covina,CA,United States,305
+Timothy,Olson,M,29,Ashland,OR,United States,M1
+James,Opperman,M,46,Sydney,International,Australia,138
+Joseph,Ortega,M,34,Citrus Heights,CA,United States,306
+Tony,Overbay,M,43,Lincoln,CA,United States,313
+Josh,Owen,M,34,Beaverton,OR,United States,309
+Todd,Owens,M,48,San Jose,CA,United States,310
+Mark,Palamar,M,46,New Port Richey,FL,United States,311
+Julio,Palma,M,31,Phoenix,AZ,United States,352
+Mark,Pancake,M,41,Peninsula,OH,United States,312
+Argyrios,Papathanasopoulos,M,41,Athens,International,Greece,317
+Chanwol,Park,F,43,Powell,OH,United States,318
+Luanne,Park,F,52,Redding,CA,United States,319
+Scott,Patnode,M,32,Marlboro,MA,United States,320
+Kristina,Pattison,F,32,Missoula,MT,United States,321
+Nick,Pedatella,M,28,Boulder,CO,United States,18
+Mike,Pelechaty,M,58,Toledo,OH,United States,322
+Jason,Perez,M,28,Brentwood,CA,United States,53
+Lewis,Persons,M,64,Reno,NV,United States,323
+Melanie,Peters,F,29,White Lake,MI,Unitied States,32
+Darryl,Peterson,M,35,Jacksonville,NC,United States,324
+Asvi,Phuong,F,38,West Sacramento,CA,United States,325
+Anna,Piskorska,F,41,Blandon,PA,United States,117
+James,Player,M,40,Roseville,CA,United States,328
+Brian,Polen,M,33,Wooster,OH,United States,356
+Gary,Poliquin,M,45,Edmonton,AB,Canada,329
+Brad,Polman,M,46,Broadview Heights,OH,United States,330
+Eric,Pope,M,50,Albuquerque,NM,United States,132
+Justin,Popov,M,30,Portland,OR,United States,331
+Jenelle,Potvin,F,34,Truckee,CA,United States,332
+Jeff,Pour,M,52,Ofallon,IL,United States,413
+Bryon,Powell,M,35,Park City,UT,United States,334
+Christopher,Pratt,M,35,Angwin,CA,United States,335
+Jenn,Prewitt,F,36,Laguna Beach,CA,United States,223
+Mark,Pribramsky,M,44,Vail,CO,United States,336
+John,Price,M,55,Ashland,OR,United States,339
+Iris,Priebe,F,43,Calgary,AB,Canada,148
+Peter,Priolo,M,44,Staten Island,NY,United States,340
+Joe,Pulver,M,54,Mason,MI,United States,341
+Tony,Quesada,M,43,Los Angeles,CA,United States,342
+Mario,Raymond,M,41,Bowie,MD,United States,343
+Brian,Recore,M,37,Escondido,CA,United States,344
+Gustavo,Reyes,M,34,Neuqu̩n,International,Argentina,78
+Kelly,Ridgway,F,55,Santa Rosa,CA,United States,51
+Thomas,Riley,M,50,Salem,OR,United States,345
+Tom,Riley,M,52,Orinda,CA,United States,346
+Jose,Rodarte,M,49,Sacramento,CA,United States,347
+Daniel,Roed,M,45,Concord,CA,United States,348
+Jeffery,Rogers,M,51,Oakland,CA,United States,107
+Benjamin,Rolfe,M,40,Monaco,International,Monaco,169
+David,Ross,M,45,Zimbabwe,International,Zimbabwe,349
+Kevin,Rumon,M,52,San Rafael,CA,United States,350
+Daniel,Runemalm,M,31,Malmo,International,Sweden,351
+John,Rutherford,M,33,Yekaterinburg,International,Russian Federation,353
+Jacob,Rydman,M,28,Rocklin,CA,United States,14
+Simon,Sandoval,M,40,Makati City,International,Philippines,355
+Rick,Santos,M,48,Rancho Cordova,CA,United States,357
+Cassie,Scallon,F,31,Boulder,CO,United States,31
+Morgan,Schick,M,39,Mississauga,ON,Canada,359
+Dean,Schorno,M,50,Burlingame,CA,United States,360
+Steve,Schuman,M,50,Beverly Hills,CA,United States,103
+Geoff,Scott,M,64,Chapel Hill,NC,United States,361
+Jim,Scott,M,53,Chico,CA,United States,120
+Robert,Scott,M,43,Diamond Springs,CA,United States,354
+Terry,Sentinella,M,49,Anacortes,WA,United States,362
+Jonathan,Shark,M,34,Olympia,WA,United States,326
+Ian,Sharman,M,32,Walnut Creek,CA,United States,M5
+John,Shepard,M,36,Falls Church,VA,United States,363
+Lisa,Sherak,F,51,Lawrenceville,GA,United States,364
+Todd,Shipman,M,30,Martinez,CA,United States,365
+Keith,Shishido,M,35,Milwaukie,OR,United States,137
+Michael,Shoup,M,39,Menlo Park,CA,United States,366
+Katrin,Silva,F,42,Las Vegas,NM,United States,367
+Erik,Skaden,M,41,Folsom,CA,United States,368
+Bettie,Smith,F,61,Cool,CA,United States,370
+Neil,Smith,M,42,Dallas,TX,United States,371
+Pam,Smith,F,38,Salem,OR,United States,22
+Brandon,Solomon,M,30,Sacramento,CA,United States,372
+Alisa,Springman,F,38,Front Royal,VA,United States,85
+Amy,Sproston,F,39,Portland,OR,United States,F8
+Craig,Stahl,M,45,Providence,UT,United States,373
+Brandon,Stapanowich,M,28,Manitou Springs,CO,United States,374
+Rachael,Stclaire,F,55,Denver,CO,United States,123
+Tim,Steele,M,41,Dallas,TX,United States,308
+Jeffrey,Stephens,M,46,Palm Beach Gardens,FL,United States,375
+Larry,Stephens,M,57,Portland,OR,United States,369
+Kyle,Stichtenoth,M,32,Pelham,AL,United States,211
+Keith,Straw,M,58,Malvern,PA,United States,376
+Suzannne,Stroeer,F,27,Houston,TX,United States,377
+Vanessa,Stroud,F,44,Birmingham,AL,United States,378
+David,Tarkalson,M,42,Twin Falls,ID,United States,379
+Kevin,Tenkku,M,51,Mentor,OH,United States,380
+Paul,Terranova,M,39,Austin,TX,United States,24
+Melissa,Terwilliger,F,29,Cleveland Heights,OH,United States,381
+Eric,Teti,M,37,Ontario,CA,United States,116
+Karen,Thernka,F,45,Rocklin,CA,United States,382
+Alexis,Thomas,F,30,Evington,VA,United States,383
+Blake,Thompson,M,32,Huntsville,AL,United States,384
+Paul,Tidmore,M,44,Carrollton,TX,United States,385
+Brian,Tinger,M,36,Beverly,MA,United States,386
+Brian,Tjersland,M,46,Dartmouth,MA,United States,387
+Nick,Tooker,M,34,Westfield,MA,United States,388
+Alex,Tunik,M,47,Hong Kong,International,Hong Kong,389
+Joe,Uhan,M,35,Eugene,OR,United States,M9
+Daniel,Uhlir,M,38,Highland,MD,United States,390
+Mark,Ulfig,M,56,Wylie,TX,United States,391
+Randy,Van Dusen,M,38,Roseville,CA,United States,392
+Grae,Van Hooser,M,52,Spanish Springs,NV,United States,393
+Nathan,Vannortwick,M,27,Oakland,CA,United States,394
+Geoff,Vaughan,M,48,Corte Madera,CA,United States,395
+Joelle,Vaught,F,38,Boise,ID,United States,114
+Eduardo,Vazquez,M,40,Sausalito,CA,United States,219
+Dan,Vega,M,45,Colorado Springs,CO,United States,396
+Ian,Warner,M,43,San Pedro,CA,United States,397
+Marcus,Warner,M,42,Sydney,International,Australia,168
+Nicholas,Warren,M,34,Glen Allen,VA,United States,398
+Christopher,Waters,M,34,Rancho Cordova,CA,United States,79
+Henrik,Westerlin,M,38,Ahmedabad,International,India,399
+Michael,Weston,M,52,La Honda,CA,United States,400
+Bill,White,M,47,Oakland,CA,United States,401
+Kimberly,White,F,42,Auburn,CA,United States,77
+Christina,Williams,F,29,Lafayette,CA,United States,403
+Matt,Wilson,M,51,Downingtown,PA,United States,404
+David,Winarski,M,39,Columbia,MO,United States,405
+Monique,Winkler,F,43,Mill Valley,CA,United States,61
+David,Wise,M,42,Flagtown,NJ,United States,408
+Scott,Wolfe,M,39,Bend,OR,United States,30
+Jeffrey,Wong,M,29,San Francisco,CA,United States,410
+Chris,Wright,M,41,Grand Junction,CO,United States,411
+Mike,Wright,M,54,Corralitos,CA,United States,414
+Di,Wu,M,29,Jilin,International,China,415
+Johanna,Ylanen,F,31,Santa Clara,CA,United States,82
+Emily,Yu,F,35,San Francisco,CA,United States,66
+Donn,Zea,M,55,Grass Valley,CA,United States,55
+John,Zerbe,M,45,San Francisco,CA,United States,416

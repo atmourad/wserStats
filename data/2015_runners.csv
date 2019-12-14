@@ -1,0 +1,389 @@
+first,last,gender,age,city,state,country,bib,type,finishes
+Stephanie,Howe,F,31,Bend,OR,United States,F1,Top Ten,1
+Larisa,Dannis,F,27,Mill Valley,CA,United States,F2,Top Ten,1
+Pam,Smith,F,40,Salem,OR,United States,F4,Top Ten,5
+Nikki,Kimball,F,44,Bozeman,MT,United States,F5,Top Ten,9
+Kaci,Lickteig,F,28,Omaha,NE,United States,F6,Top Ten,1
+Denise,Bourassa,F,45,Bend,OR,United States,F7,Top Ten,3
+Meghan,Arbogast,F,54,Cool,CA,United States,F8,Top Ten,8
+Shaheen,Sattar,F,31,Dallas,TX,United States,F9,Top Ten,1
+Sally,McRae,F,36,Huntington Beach,CA,United States,F10,Top Ten,1
+Rob,Krar,M,38,Flagstaff,AZ,United States,M1,Top Ten,2
+Seth,Swanson,M,36,Missoula,MT,United States,M2,Top Ten,1
+Dylan,Bowman,M,29,Mill Valley,CA,United States,M3,Top Ten,3
+Ryan,Sandes,M,33,Cape Town,ZAF,South Africa,M5,Top Ten,2
+Ian,Sharman,M,34,Walnut Creek,CA,United States,M6,Top Ten,5
+Alex,Varner,M,29,San Rafael,CA,United States,M7,Top Ten,1
+Brendan,Davies,M,38,Woodford,AUS,Australia,M8,Top Ten,1
+Brett,Rivers,M,33,Mill Valley,CA,United States,M9,Top Ten,2
+Jesse,Haynes,M,42,Capistrano Beach,CA,United States,M10,Top Ten,2
+Gordy,Ainsleigh,M,68,Meadow Vista,CA,United States,0,Founder,23
+Dave,Mackey,M,45,Boulder,CO,United States,11,MUC,3
+Francois,Dhaene,M,29,Saint Julien,FRA,France,12,Foreign Consideration,0
+Gediminas,Grinius,M,35,Ukmerge,LTU,Lithuania,13,Foreign Consideration,0
+Julien,Chorier,M,34,St. Thibaud De Couz,FRA,France,14,Foreign Consideration,0
+Thomas,Lorblanchet,M,35,Clermont Ferrand,FRA,France,15,UTWT,0
+Emmanuel,Gault,M,38,Uzes,FRA,France,16,UTWT,0
+Emma,Roca,F,41,Tallo,ESP,Spain,17,UTWT,0
+Andrew,Tuckey,M,39,Asquith,AUS,Australia,18,UTWT,0
+Claire,Price,F,46,Hong Kong,HKG,Hong Kong,19,UTWT,1
+Cyril,Cointre,M,33,Faverges,FRA,France,20,UTWT,0
+David,Laney,M,26,Ashland,OR,United States,21,MUC,1
+Anita,Ortiz,F,51,Eagle,CO,United States,22,MUC,2
+Paul,Terranova,M,41,Austin,TX,United States,23,MUC,3
+Nicole,Studer,F,33,Dallas,TX,United States,24,MUC,0
+Ryan,Smith,M,36,Boulder,CO,United States,25,MUC,0
+Jorge,Pacheco,M,47,Los Angeles,CA,United States,26,MUC,1
+Magdalena,Boulet,F,41,Oakland,CA,United States,27,MUC,0
+Ford,Smith,M,19,Austin,TX,United States,28,MUC,0
+Caroline,Boller,F,40,Temecula,CA,United States,29,MUC,0
+Gina,Lucrezi,F,32,Boulder,CO,United States,30,MUC,0
+Justin,Houck,M,29,Mercer Island,WA,United States,31,MUC,0
+Christopher,Denucci,M,35,Menlo Park,CA,United States,32,MUC,0
+Aliza,Lapierre,F,35,Williston,VT,United States,33,MUC,3
+Michele,Yates,F,33,Littleton,CO,United States,34,MUC,0
+Joelle,Vaught,F,40,Boise,ID,United States,35,MUC,2
+Kerrie,Wlad,F,43,Boulder,CO,United States,36,MUC,0
+Jared,Hazen,M,20,Colorado Springs,CO,United States,37,MUC,1
+Ryan,Bak,M,33,Bend,OR,United States,38,MUC,0
+Matt,Keyes,M,41,Auburn,CA,United States,41,Lottery (1 ticket),8
+Topher,Gaylord,M,45,Kentfield,CA,United States,45,Sponsor,7
+Kevin,Skiles,M,41,Mill Valley,CA,United States,46,MUC Last Chance,0
+Jon,Beard,M,60,Soquel,CA,United States,47,MUC Last Chance,0
+John,Nichols,M,50,El Dorado Hills,CA,United States,50,Sponsor,9
+Rich,Conder,M,36,Suisun City,CA,United States,51,Lottery (16 tickets),0
+Mike,Kreaden,M,52,Sunnyvale,CA,United States,52,Race Admin,1
+Will,Aarsheim,M,46,Larkspur,CA,United States,53,Lottery (4 tickets),4
+Jerome,Lourme,M,54,San Francisco,CA,United States,54,Lottery (32 tickets),2
+Jim,Scott,M,55,Chico,CA,United States,55,Race Admin,20
+Stephen,Itano,M,56,Fairfield,CA,United States,56,Lottery (16 tickets),2
+Dane,Leblanc,M,57,Littleton,MA,United States,57,Lottery (16 tickets),0
+Karen,Bonnett,F,59,West Sacramento,CA,United States,58,Lottery (8 tickets),1
+Mike,Holmes,M,59,Reno,NV,United States,59,Race Admin,0
+David,Newman,M,54,Bentonville,AR,United States,60,Lottery (2 tickets),0
+Jeff,Jones,M,61,Sunnyvale,CA,United States,61,Lottery (2 tickets),0
+Cameron,Adamson,M,27,Sandy,UT,United States,62,Lottery (2 tickets),0
+Clyde The Glide,Aker,M,63,Yreka,CA,United States,63,Lottery (1 ticket),3
+Kelly,Agnew,M,42,Ogden,UT,United States,64,Lottery (8 tickets),0
+Jonathan,Allen,M,36,Simpsonville,SC,United States,65,Lottery (8 tickets),0
+Tom,Harper,M,66,Auburn,CA,United States,66,Race Admin,2
+Timothy,Allen,M,46,Houston,TX,United States,67,Lottery (8 tickets),0
+Sondre,Amdahl,M,43,Trysil,NOR,Norway,68,Lottery (2 tickets),0
+Robert,Lopez,M,49,Seattle,WA,United States,69,Sponsor,0
+Gunhild,Swanson,F,70,Spokane Valley,WA,United States,70,Sponsor,2
+Gary,Knipling,M,71,Mason Neck,VA,United States,71,Lottery (2 tickets),2
+Carolyn,Shreck,F,43,Hampton,NH,United States,72,Lottery (2 tickets),0
+Warwick,Ames,M,47,Chapel Hill,NC,United States,73,Lottery (8 tickets),0
+Jason,Roche,M,41,Clovis,CA,United States,74,Lottery (2 tickets),0
+Julie,Flynn,F,40,North Vancouver,BC,Canada,75,Lottery (16 tickets),0
+Jeff,Giumarra,M,39,Bakersfield,CA,United States,76,Lottery (4 tickets),0
+Randy,Vander Tuig,M,41,Tulare,CA,United States,77,Lottery (16 tickets),0
+Brad,Koenig,M,39,Cherry Hill,NJ,United States,78,Lottery (32 tickets),0
+Mark,Lantz,M,49,Gold River,CA,United States,79,Tenth,9
+Jady,Palko,M,42,Windsor,CA,United States,80,Lottery (16 tickets),2
+Jill,Andersen,F,38,Reno,NV,United States,81,Lottery (16 tickets),0
+Thomas,Andersen,M,52,Sonora,CA,United States,82,Lottery (4 tickets),0
+Joey,Anderson,M,59,Zebulon,NC,United States,83,Lottery (8 tickets),0
+Klas,Eklof,M,44,Oakland,CA,United States,84,Lottery (32 tickets),3
+Michael,Arnold,M,32,Minneapolis,MN,United States,85,Lottery (1 ticket),0
+Scott,Bajer,M,40,Flagstaff,AZ,United States,86,Lottery (8 tickets),0
+Sandy,Baker,F,53,Foresthill,CA,United States,87,Lottery (2 tickets),0
+Dan,Barger,M,49,Auburn,CA,United States,88,Race Admin,8
+Ian,Ballentyne,M,31,Seattle,WA,United States,89,Lottery (4 tickets),0
+Alex,Brennwald,M,32,Zurich,CHE,Switzerland,90,Lottery (1 ticket),0
+Danny,Westergaard,M,56,Rolling Hills,CA,United States,91,Lottery (2 tickets),8
+Katie,Trent,F,22,Reno,NV,United States,92,Lottery (2 tickets),0
+Kelly,Barber,M,45,Davis,CA,United States,93,Race Admin,0
+Alan,Barichievich,M,48,South Lake Tahoe,CA,United States,94,Race Admin,5
+Maria,Barton,F,49,Apple Valley,MN,United States,95,Lottery (4 tickets),0
+Chris,Bassett,M,47,Livermore,CA,United States,96,Lottery (4 tickets),0
+Jeff,Boutte,M,52,Grass Valley,CA,United States,97,Bonus Lottery,2
+Matt,Bishop,M,34,Peculiar,MO,United States,98,Lottery (4 tickets),0
+Joe,Ziegenfuss,M,40,Golden,CO,United States,99,Lottery (32 tickets),0
+Girish,V.G.,M,41,K.K.Dist.,IND,India,100,Foreign Consideration,0
+Matthew,Heisey,M,32,Centreville,VA,United States,101,Raffle,2
+Tia,Bodington,F,58,Talent,OR,United States,102,Trustee,1
+David,Carder,M,52,Cumming,GA,United States,103,Lottery (16 tickets),0
+Johannes,Parkkonen,M,39,Helsinki,FIN,Finland,104,Lottery (2 tickets),0
+Shavinder,Singh,M,37,Fair Oaks,CA,United States,105,Raffle,1
+Aaron,Boothe,M,38,Red Rock,AZ,United States,106,Lottery (2 tickets),0
+William,Skyles,M,55,Mercury,NV,United States,107,Lottery (4 tickets),0
+Sam,Bosworth,M,37,Encinitas,CA,United States,108,Lottery (16 tickets),0
+Jeremy,Bradford,M,37,Denver,CO,United States,109,Lottery (1 ticket),0
+Scott,Brand,M,49,Auburn,CA,United States,110,Lottery (16 tickets),1
+Robert,Drewell,M,42,Petersham,MA,United States,111,Lottery (32 tickets),0
+Dave,Hope,M,50,Foresthill,CA,United States,112,Sponsor,0
+Derek,Beenfeldt,M,46,Reno,NV,United States,113,Lottery (2 tickets),0
+Dan,Brostek,M,40,Canton,CT,United States,114,Lottery (4 tickets),0
+Joey,Bryan,M,45,Oceanside,CA,United States,115,Lottery (16 tickets),0
+Tyler,Bucklin,M,39,Conrad,MT,United States,116,Lottery (2 tickets),1
+Richard,Cook,M,52,Ben Avon Heights,PA,United States,117,Lottery (32 tickets),0
+Iris,Cooper,F,56,Richmond Hill,ON,Canada,118,Lottery (32 tickets),0
+Keith,Levasseur,M,36,Columbia,MD,United States,119,Lottery (8 tickets),0
+Rebecca,Burns,F,32,Tucker,GA,United States,120,Lottery (1 ticket),0
+Steve,Sorenson,M,50,Blair,NE,United States,121,Lottery (1 ticket),0
+Christopher,Cabbat,M,33,Sacramento,CA,United States,122,Lottery (2 tickets),0
+Nicolas,Caille,M,52,Slavutich,UKR,Ukraine,123,Foreign Consideration,0
+Jc,Callans,M,48,Ashland,OR,United States,124,Lottery (2 tickets),0
+Chris,Mcpeake,M,48,Toronto,ON,Canada,125,Lottery (16 tickets),0
+Laura,Langerwerf,F,34,Sacramento,CA,United States,126,Race Admin,0
+Timothy,Holmes,M,45,Eugene,OR,United States,127,Lottery (8 tickets),0
+Luis Miguel,Callao,M,45,Locust Valley,NY,United States,128,Lottery (1 ticket),0
+Matt,Campbell,M,31,Bellevue,WA,United States,129,Lottery (8 tickets),0
+Filippo,Canetta,M,43,Milano,ITA,Italy,130,Lottery (4 tickets),0
+Harry,Hamilton,M,54,Madison,NJ,United States,131,Lottery (32 tickets),0
+Kevin,Cannaday,M,36,Oconomowoc,WI,United States,132,Lottery (1 ticket),0
+Erika,Lindland,F,33,Fairfax,CA,United States,133,Sponsor,3
+Grant,Carboni,M,44,Sacramento,CA,United States,134,Race Admin,2
+Miguel ́ngel,Casarrubios,M,30,Madrid,ESP,Spain,135,Lottery (1 ticket),0
+Ryan,Case,M,34,Golden,CO,United States,136,Lottery (4 tickets),0
+Keith,Cassidy,M,33,Arlington,VA,United States,137,Lottery (2 tickets),0
+Robert,Cawood,M,46,Annapolis,MD,United States,138,Lottery (2 tickets),0
+Larry,Cawthon,M,68,Sacramento,CA,United States,139,Race Admin,1
+Jim,Chaney,M,45,Salisbury,MD,United States,140,Lottery (1 ticket),0
+Vincent,Charbonneau,M,44,Burlington,ON,Canada,141,Lottery (8 tickets),0
+Jack,Cheng,M,43,Temple City,CA,United States,142,Lottery (16 tickets),0
+John,Catts,M,61,Nicasio,CA,United States,143,Race Admin,2
+Stanislav,Chiknavaryan,M,44,Redmond,WA,United States,144,Lottery (1 ticket),0
+Darren,Christiansen,M,44,Mckinney,TX,United States,145,Lottery (4 tickets),0
+Michael,Pantalone,M,46,Hatfield,PA,United States,146,Lottery (1 ticket),1
+Henry,Church,M,46,Cirencester,GBR,Great Britain,147,Lottery (1 ticket),0
+Sam,Fiandaca,M,43,San Pablo,CA,United States,148,Raffle,1
+Jackie,Clark,F,57,Tahoma,CA,United States,149,Lottery (2 tickets),0
+Luis,Escobar,M,52,Santa Maria,CA,United States,150,Special Consideration,7
+Mark,Cliggett,M,53,Seattle,WA,United States,151,Lottery (4 tickets),0
+Jonathan,Clinthorne,M,28,Lakewood,CO,United States,152,Lottery (16 tickets),0
+Matthew,Condron,M,48,Libertyville,IL,United States,153,Lottery (16 tickets),0
+Shelley,Cook,F,40,Gurnee,IL,United States,154,Lottery (4 tickets),0
+John,Corey,M,47,Cincinnati,OH,United States,155,Lottery (16 tickets),0
+Jennifer,Cosco,F,31,Carlsbad,CA,United States,156,Lottery (2 tickets),0
+Skip,Crockett,M,34,San Francisco,CA,United States,157,Race Admin,1
+Jason,Crockett,M,37,San Antonio,TX,United States,158,Lottery (4 tickets),0
+Christine,Dancey,F,53,San Diego,CA,United States,159,Lottery (1 ticket),0
+Jay,Danek,M,39,Scottsdale,AZ,United States,160,Lottery (8 tickets),0
+Tamara,Day,F,44,Surrey,BC,Canada,161,Lottery (2 tickets),0
+John,Dedoncker,M,50,Davenport,IA,United States,162,Lottery (8 tickets),0
+Jeffery,Deslich,M,56,Campbell,CA,United States,163,Lottery (1 ticket),0
+Eric,Deutsch,M,43,Pittsburgh,PA,United States,164,Lottery (8 tickets),1
+Lisa,Deyoung,F,47,Winston Salem,NC,United States,165,Lottery (16 tickets),0
+John,Diana,M,46,Napa,CA,United States,166,Raffle,1
+Bernie,Doucet,M,48,Fredericton,NB,Canada,167,Lottery (2 tickets),0
+Dale,Draaistra,M,39,Brantford,ON,Canada,168,Lottery (1 ticket),0
+Gerald,Ray,M,28,Kingsport,TN,United States,169,Lottery (1 ticket),0
+Julius,Drelick,M,48,Scottsdale,AZ,United States,170,Lottery (16 tickets),1
+Erik,Dube,M,41,San Luis Obispo,CA,United States,171,Lottery (16 tickets),5
+Rachel,Dubois,F,47,Raleigh,NC,United States,172,Lottery (2 tickets),0
+Douglas,Wickert,M,42,Las Vegas,NV,United States,173,Lottery (2 tickets),0
+Gary,Dudney,M,62,Salinas,CA,United States,174,Lottery (16 tickets),2
+David,Easa,M,40,Encinitas,HI,United States,175,Lottery (1 ticket),1
+Todd,Elayer,M,43,Rocklin,CA,United States,176,Sponsor,0
+Tamara,Ellis,F,45,Ashland,OR,United States,177,Race Admin,0
+Jonathan,Erber,M,24,Jos, Plateau,NGA,Nigeria,178,Lottery (1 ticket),0
+George,Erickson,M,41,Missoula,MT,United States,179,Lottery (16 tickets),0
+Bruce,Flanagan,M,52,Germantown,MD,United States,180,Lottery (2 tickets),0
+Jerry,Flanagan,M,49,San Francisco,CA,United States,181,Lottery (4 tickets),0
+Helen,Fong,F,34,Auburn,CA,United States,182,Lottery (4 tickets),0
+Terry,Foust,M,52,Kaysville,UT,United States,183,Lottery (2 tickets),1
+Peter,Foxall,M,62,Aylesford,GBR,Great Britain,184,Lottery (4 tickets),1
+Jeff,Friedman,M,31,Grand Junction,CO,United States,185,Lottery (1 ticket),0
+Kyle,Gery,M,39,Douglassville,PA,United States,187,Lottery (2 tickets),0
+Jason,Dumars,M,45,Fair Oaks,CA,United States,188,Lottery (16 tickets),0
+Patrice,Godin,M,47,Boucherville,QC,Canada,189,Lottery (8 tickets),0
+Angela,Gohlke,F,40,Phoenix,AZ,United States,190,Lottery (2 tickets),0
+Brett,Goldsmith,M,34,Simi Valley,CA,United States,191,Lottery (2 tickets),0
+Gene,Graham,M,56,Carmichael,CA,United States,192,Raffle,0
+Joe,Grant,M,32,Gold Hill,CO,United States,193,Sponsor,0
+Sean,Greaney,M,34,New Canaan,CT,United States,194,Lottery (2 tickets),0
+Jason,Green,M,41,Douglasville,GA,United States,195,Lottery (4 tickets),0
+Rachel,Grimm,F,33,Cool,CA,United States,196,Lottery (1 ticket),0
+Jonathan,Gunderson,M,37,San Francisco,CA,United States,197,Lottery (16 tickets),1
+Kristin,Gustafsson,F,46,Folsom,CA,United States,198,Sponsor,1
+Tom,Grant,M,57,Conifer,CO,United States,199,Lottery (1 ticket),0
+Michael,Scherzer,M,48,Ringgold,GA,United States,200,Lottery (4 tickets),1
+Tatsuro,Aoyama,M,42,Tokyo,JPN,Japan,201,Lottery (8 tickets),0
+Michelle,Halsne,F,46,Golden,CO,United States,202,Lottery (8 tickets),1
+Deborah,Hamberlin,F,47,Tempe,AZ,United States,203,Lottery (16 tickets),0
+Jennifer,Hamburg,F,43,Granite Bay,CA,United States,204,Lottery (2 tickets),0
+Dean,Hansen,M,59,Prescott,AZ,United States,205,Lottery (8 tickets),1
+Karl,Hoagland,M,50,Fairfax,CA,United States,206,Trustee,6
+Yoshikazu,Hara,M,42,Takaraduka,JPN,Japan,207,Lottery (1 ticket),1
+Edith,Harbaugh,F,36,San Francisco,CA,United States,208,Sponsor,0
+Chris,Hasselback,M,43,Castle Rock,CO,United States,209,Lottery (4 tickets),0
+Mark,Hauber,M,47,Oakland,CA,United States,210,Raffle,0
+Kyle,Stichtenoth,M,34,Pelham,AL,United States,211,Lottery (2 tickets),1
+Matt,Hawkins,M,42,Franklin,TN,United States,212,Raffle,1
+David,Hayes,M,48,Salt Lake City,UT,United States,213,Lottery (32 tickets),1
+Cynthia,Heady,F,53,Finchville,KY,United States,214,Lottery (8 tickets),0
+Jennifer,Hemmen,F,43,Fair Oaks,CA,United States,215,Race Admin,0
+David,Henry,M,30,Baker City,OR,United States,216,Lottery (1 ticket),0
+Sharon,Rodarte,F,51,San Clemente,CA,United States,217,Lottery (8 tickets),0
+David,Herrlin,M,50,Auburn,CA,United States,218,Lottery (8 tickets),0
+Jakob,Herrmann,M,44,Yorba Linda,CA,United States,219,Lottery (1 ticket),0
+Jay,Hickle,M,49,Redding,CA,United States,220,Lottery (16 tickets),0
+Chris,Petterson,M,33,Pleasant Hill,CA,United States,221,MUC Last Chance,0
+John,Hill,M,48,Pleasant Hill,TX,United States,222,Lottery (8 tickets),0
+Nathan,Holland,M,31,Ooltewah,TN,United States,223,Lottery (1 ticket),0
+Joshua,Holmes,M,37,Los Angeles,CA,United States,224,Lottery (8 tickets),0
+Nick,Ham,M,51,Stockport,GBR,Great Britain,225,Lottery (8 tickets),2
+Jeff,Hooker,M,48,Encinitas,CA,United States,226,Lottery (1 ticket),0
+Christopher,Howe,M,28,Teddington,GBR,Great Britain,227,Lottery (4 tickets),0
+Tony,Huff,M,48,Boise,ID,United States,228,Lottery (16 tickets),0
+Bill,Hunter,M,50,Grass Valley,CA,United States,229,Race Admin,1
+Kelly,Hutchins,M,44,Mayfield,KY,United States,230,Lottery (8 tickets),0
+Tina,Hyde,F,29,Foresthill,CA,United States,231,Race Admin,0
+Ken,Neely,M,43,Nevada City,CA,United States,232,Lottery (1 ticket),1
+Jim,Jansen,M,30,Westwood,NJ,United States,233,Lottery (2 tickets),0
+Dane,Simmons,M,29,Greenville,SC,United States,234,Lottery (8 tickets),0
+Richard,Kabanuck,M,31,Navarre,FL,United States,235,Lottery (2 tickets),0
+Ryan,Kaiser,M,36,Bend,OR,United States,236,Lottery (2 tickets),0
+Junko,Kazukawa,F,51,Denver,CO,United States,237,Lottery (4 tickets),0
+Serena,Wilcox,F,36,Williston,VT,United States,238,Sponsor,1
+Davide,Keaton,M,46,Clovis,NM,United States,239,Lottery (1 ticket),0
+Michael,Bielik,M,36,New York,NY,United States,240,Lottery (4 tickets),0
+Seth,Kelly,M,31,Boulder,CO,United States,241,Lottery (4 tickets),0
+Jeff,Kozak,M,41,Bishop,CA,United States,243,Lottery (16 tickets),3
+Scot,Kuwaye,M,51,Honolulu,HI,United States,244,Lottery (1 ticket),0
+Lupe,Labourdett,F,55,Brentwood,CA,United States,245,Lottery (1 ticket),0
+Mary Lou,Lackey,F,63,Julian,CA,United States,246,Lottery (1 ticket),1
+Chor Kin,Law,M,38,Hong Kong,HKG,Hong Kong,247,Lottery (4 tickets),0
+Dan,Lenz,M,40,Cameron,NC,United States,248,Lottery (1 ticket),0
+Charles,Leonard,M,60,Freeville,NY,United States,249,Lottery (32 tickets),0
+Ryan,Lingg,M,29,Durango,CO,United States,250,Lottery (4 tickets),0
+David,Lister,M,29,Lock Haven,PA,United States,251,Lottery (2 tickets),0
+Eric,Litvin,M,45,Sebastopol,CA,United States,252,Lottery (1 ticket),0
+Thomas,Lopes,M,43,Riverbank,CA,United States,253,Race Admin,1
+Alvin,Lubrino,M,44,San Bruno,CA,United States,254,Lottery (1 ticket),0
+Kristin,Lynn,F,41,Half Moon Bay,CA,United States,255,Race Admin,0
+Jose,Macias,M,38,Fresno,CA,United States,256,Lottery (4 tickets),0
+Mike,Maddox,M,50,Roseville,CA,United States,257,Lottery (8 tickets),0
+Desiree,Marek,F,32,Portland,OR,United States,258,Lottery (4 tickets),0
+Joshua,Marks,M,39,Bend,OR,United States,259,Lottery (8 tickets),0
+Charley,Jones,M,43,Folsom,CA,United States,260,Raffle,7
+Devin,Martin,M,36,Coloma,CA,United States,261,Lottery (8 tickets),0
+Robert,Johnson,M,44,Sparks,NV,United States,262,Race Admin,0
+Melissa,Martin,F,51,Conway,AR,United States,263,Lottery (1 ticket),0
+Tammy,Massie,F,43,Gaithersburg,MD,United States,264,Lottery (8 tickets),1
+Clifford,Matthews,M,52,Albuquerque,NM,United States,265,Lottery (4 tickets),0
+Kynan,Matz,M,30,Sacramento,CA,United States,266,Lottery (2 tickets),0
+Laura,Matz,F,29,Sacramento,CA,United States,267,Race Admin,0
+Richard,May,M,48,Ashland,OR,United States,268,Lottery (4 tickets),0
+Brooke,Mcclanahan,F,39,Locust Grove,GA,United States,269,Lottery (1 ticket),0
+John,Mccracken,M,45,Burr Ridge,IL,United States,270,Lottery (1 ticket),0
+Lisa,Mcfadden,F,41,Lillington,NC,United States,271,Lottery (4 tickets),0
+Sarah,Mcginn,F,37,Sacramento,CA,United States,272,Bonus Lottery,0
+Abby,Mckee,F,45,Rocklin,CA,United States,273,Lottery (8 tickets),0
+Shannon,Mcquaid,F,42,Tempe,AZ,United States,274,Lottery (2 tickets),0
+Ray,Mena,M,59,Long Beach,CA,United States,275,Lottery (8 tickets),0
+Matthew,Menacher,M,37,Chicago,IL,United States,276,Lottery (4 tickets),0
+Jack,Meyer,M,51,Foresthill,CA,United States,277,Lottery (1 ticket),4
+Barry,Miller,M,34,Reading,GBR,Great Britain,278,Lottery (1 ticket),1
+Holly,Miller,F,40,Scottsdale,AZ,United States,279,MUC Last Chance,0
+Andrew,Mitchell,M,47,Corte Madera,CA,United States,280,Lottery (1 ticket),0
+Christopher,Mortensen,M,34,Southampton,PA,United States,281,Lottery (8 tickets),1
+Christine,Murphy,F,28,Dubuque,IA,United States,282,Lottery (1 ticket),0
+John,Murphy,M,50,Lincoln,CA,United States,283,Lottery (8 tickets),0
+Greg,Nacco,M,55,Larkspur,CA,United States,284,Tenth,9
+Joseph,Nakamura,M,36,Riverside,CA,United States,285,Lottery (2 tickets),0
+Paul,Nelson,M,39,Milwaukie,OR,United States,286,Lottery (1 ticket),1
+Wes,Neubeck,M,34,Virginia Beach,VA,United States,287,Raffle,0
+Loren,Newman,M,28,San Francisco,MA,United States,288,Lottery (8 tickets),0
+Scott,Newton,M,45,Shell Beach,CA,United States,289,Lottery (8 tickets),1
+Ken,Niemimaa,M,43,Pickering,ON,Canada,290,Lottery (32 tickets),0
+Eddie,Nolen,M,46,Clovis,CA,United States,291,Lottery (4 tickets),0
+Craig,Norquist,M,48,Paradise Valley,AZ,United States,292,Lottery (8 tickets),1
+Brad,Noyes,M,39,Central Point,OR,United States,293,Race Admin,0
+Jennifer,O'connor,F,46,Walnut Creek,CA,United States,294,Race Admin,1
+Devon,Olson,M,27,Steamboat Springs,CO,United States,295,Lottery (1 ticket),0
+Thomas,Orf,M,42,Austin,TX,United States,296,Lottery (2 tickets),0
+Janos,Orsos,M,30,Bishops Stortford,GBR,Great Britain,297,Lottery (1 ticket),0
+Brian,Ottinger,M,58,Pittsburgh,PA,United States,298,Lottery (4 tickets),0
+Joe,Palubeski,M,48,Red Bluff,CA,United States,299,Lottery (4 tickets),1
+Franco,Soriano,M,44,Livermore,CA,United States,300,Lottery (16 tickets),0
+Nicole,Parkhurst,F,35,Lee's Summit,MO,United States,301,Lottery (2 tickets),0
+Rene,Peinado,M,38,Cd Juarez,MEX,Mexico,302,Lottery (1 ticket),0
+Shane,Simpson,M,43,Sydney,AUS,Australia,303,Lottery (16 tickets),0
+Fabrice,Perrin,M,43,Chilly,FRA,France,304,Sponsor,0
+Stephen,Petretto,M,35,Portland,OR,United States,305,Lottery (16 tickets),0
+Terri,Pfeil,F,48,Boulder,CO,United States,306,Lottery (1 ticket),0
+Ryan,Pintar,M,34,Sacramento,CA,United States,307,Lottery (2 tickets),0
+Byron,Pittam,M,32,San Francisco,CA,United States,308,Sponsor,1
+Michel,Poletti,M,60,Chamonix,FRA,France,309,Sponsor,0
+Steve,Poling,M,43,Surprise,AZ,United States,310,Lottery (1 ticket),0
+James,Poole,M,39,Chorleywood,GBR,Great Britain,311,Lottery (1 ticket),0
+Harris,Goodman,M,49,Pleasanton,CA,United States,312,Lottery (16 tickets),1
+Tony,Overbay,M,45,Lincoln,CA,United States,313,Race Admin,2
+Jim,Roche,M,46,Newmarket,NH,United States,314,MUC Last Chance,0
+Jeff,Pour,M,54,Ofallon,IL,United States,315,Lottery (2 tickets),0
+Adam,Wilcox,M,33,Candia,NH,United States,316,Lottery (32 tickets),0
+Andy,Pele,M,48,Folsom,CA,United States,317,Lottery (16 tickets),0
+Tin,Tse,M,47,Alhambra,CA,United States,318,Lottery (16 tickets),0
+John,Powell,M,52,Seattle,WA,United States,319,Lottery (8 tickets),2
+Lorenzo,Prieto Saiz,M,35,Gijon,ESP,Spain,320,Lottery (1 ticket),0
+Paul,Lind,M,47,Challis,ID,United States,321,Lottery (16 tickets),1
+Mauricio,Puerto,M,42,Port Hueneme,CA,United States,322,Lottery (1 ticket),0
+Charlie,Quinn,M,48,Seattle,WA,United States,323,Lottery (1 ticket),0
+Chris,Randall,M,44,Berkeley,CA,United States,324,Sponsor,0
+Laura,Range,F,49,St Louis,MO,United States,325,Lottery (1 ticket),0
+Mario,Raymond,M,43,Bowie,MD,United States,326,Lottery (2 tickets),0
+Jason,Reathaford,M,46,Kennewick,WA,United States,327,Lottery (1 ticket),0
+Greg,Redding,M,49,Crawfordsville,IN,United States,328,Lottery (4 tickets),0
+Pam,Reed,F,54,Jackson,WY,United States,329,Lottery (4 tickets),6
+Bryce,Rhodes,M,38,Reno,NV,United States,330,Sponsor,2
+David,Rhodes,M,45,San Ramon,CA,United States,331,Bonus Lottery,2
+Laura,Richard,F,46,San Anselmo,CA,United States,332,Race Admin,0
+Yuki,Negoro,M,54,Fort Lee,NJ,United States,333,Lottery (32 tickets),2
+Larry,Roberts,M,43,Greenwood,IN,United States,334,Lottery (4 tickets),0
+Tim,Ruffino,M,52,Folsom,CA,United States,335,Raffle,1
+Stephen,Rodgers,M,47,Twin Lakes,CO,United States,336,Lottery (1 ticket),0
+Tim,Roush,M,48,Concord,CA,United States,337,Lottery (8 tickets),0
+Daren,Sandbank,M,56,Oro Valley,AZ,United States,338,Lottery (32 tickets),0
+David,Schmidt,M,35,Sparta,WI,United States,339,Lottery (4 tickets),0
+Nick,Schnabel,M,38,Somerset,NJ,United States,340,Lottery (2 tickets),0
+Chris,Schultheiss,M,42,Seattle,WA,United States,341,Lottery (4 tickets),0
+Rob,Schultz,M,48,Champaign,IL,United States,342,Lottery (1 ticket),0
+David,Town,M,37,Bend,OR,United States,343,Lottery (8 tickets),1
+Maria,Semerjian,F,40,Toulouse,FRA,France,344,Lottery (1 ticket),0
+Troy,Shellhamer,M,34,Louisville,KY,United States,345,Lottery (8 tickets),0
+Molly,Sheridan,F,58,Las Vegas,NV,United States,346,Race Admin,0
+Travis,Shields,M,38,Indianapolis,IN,United States,347,Lottery (2 tickets),0
+Gregory,Shumavon,M,40,Lake Oswego,OR,United States,348,Lottery (2 tickets),0
+Katrin,Silva,F,44,Las Vegas,NM,United States,349,Lottery (2 tickets),1
+David,Sooter,M,45,Oklahoma City,OK,United States,350,Lottery (2 tickets),0
+Jay,Spadie,M,44,Raleigh,NC,United States,351,Lottery (1 ticket),1
+Brian,Steinberg,M,36,Grand Rapids,MI,United States,352,Lottery (4 tickets),0
+Jeff,Stowell,M,53,Salt Lake City,UT,United States,353,Lottery (8 tickets),0
+Christine,Strom,F,46,Cary,NC,United States,354,Lottery (8 tickets),0
+Elaine,Stypula,F,50,Farmington Hills,MI,United States,355,Lottery (8 tickets),1
+Paul,Sweeney,M,49,Truckee,CA,United States,356,Lottery (4 tickets),1
+Mark,Tanaka,M,48,Hayward,CA,United States,357,Lottery (32 tickets),0
+Ed,Thomas,M,56,Sioux Falls,SD,United States,358,Lottery (2 tickets),0
+Mark,Tiedens,M,46,Menlo Park,CA,United States,359,Lottery (32 tickets),0
+Drake,Tollenaar,M,46,Tualatin,OR,United States,360,Lottery (2 tickets),0
+Ian,Torrence,M,42,Flagstaff,AZ,United States,361,Lottery (16 tickets),6
+Bartlomiej,Trela,M,34,Zglobice,POL,Poland,362,Lottery (1 ticket),0
+Benjamin,Trok,M,39,Duluth,MN,United States,363,Lottery (4 tickets),0
+Matthew,Urbanski,M,34,Seattle,WA,United States,364,Lottery (2 tickets),0
+Sylvere,Valentin,M,38,Long Beach,CA,United States,365,Lottery (4 tickets),0
+Roy,Van Buren,M,53,Reading,MA,United States,366,Lottery (32 tickets),0
+Monika,Vavrochova,F,46,Prague,CZE,Czech Republic,367,Lottery (1 ticket),0
+Angel,Vega,M,42,Mesa,AZ,United States,368,Lottery (4 tickets),0
+William,Vickers,M,36,Frederick,CO,United States,369,Lottery (1 ticket),0
+Isaac,Wait,M,38,Ona,WV,United States,370,Lottery (2 tickets),0
+Chuck,Walen,M,52,Red Bluff,CA,United States,371,Race Admin,1
+Ken,Ward,M,58,Corvallis,OR,United States,372,Lottery (32 tickets),6
+Michael,Wardian,M,41,Arlington,VA,United States,373,Sponsor,2
+Stephen,Wassather,M,24,Kentfield,CA,United States,374,Race Admin,0
+Aaron,Watenmaker,M,26,Huntington Beach,CA,United States,375,Lottery (1 ticket),0
+Robin,Watkins,F,31,Washington,DC,United States,376,Lottery (8 tickets),0
+Ryan,Weibel,M,42,South Lake Tahoe,CA,United States,377,Lottery (1 ticket),0
+Mike,Weigand,M,41,Middlebury,VT,United States,378,Lottery (16 tickets),0
+Andrew,Wellman,M,38,Castle Rock,CO,United States,379,Lottery (4 tickets),0
+Jordan,Whitlock,M,27,Madison Heights,VA,United States,380,Lottery (16 tickets),0
+Clark,Whitten,M,51,Folsom,CA,United States,381,Sponsor,1
+Stan,Wiens,M,50,Calgary,AB,Canada,382,Lottery (4 tickets),0
+Traviss,Willcox,M,48,Dover,GBR,Great Britain,383,Lottery (4 tickets),0
+Billy,Yang,M,38,Los Angeles,CA,United States,384,Lottery (2 tickets),0
+Mark,Yeaman,M,46,Dallas,TX,United States,385,Raffle,0
+Darren,Young,M,44,Washoe Valley,NV,United States,386,Lottery (8 tickets),0
+Danielle,Zemola,F,36,Tallahassee,FL,United States,387,Lottery (1 ticket),0
+Ben,Zuehlsdorf,M,32,Mill Valley,CA,United States,388,Lottery (2 tickets),0
