@@ -6,7 +6,7 @@ After listening to the epsiode of KoopCast (https://twitter.com/jasonkoop/status
 I pulled the lottery numbers for 2013-2020 from the various https://www.wser.org/lottery20XX.html pages.
 I pulled the runners numbers for 2013-2020 from the various https://www.wser.org/20XX-entrants-list/ pages.
 
-##Findings
+## Findings
 The ratio of men to women stands at approximately 80/20 across the board pretty consistenly (plus or minus a few points). There are a few data points I looked for:
 * number of people that enter the lottery broken down by M/F.
 * the number of tickets in the lottery broken down by M/F.
@@ -27,60 +27,60 @@ Interestingly enough, we see this approximate 80/20 split consistently here as w
 
 Lastly, with regards to WSER the ratio of the runners remains approximately the same as the ratio of the lottery, which is precisely what we would expect from a random lottery.
 
-###2013 LOTTERY
+### 2013 LOTTERY
 RUNNERS (M/F): 1876/419 **(81.7%/18.3%)** TOTAL: 2295
 TICKETS (M/F): 2954/601 **(83.1%/16.9%)** TOTAL: 3555
 
-###2013 RUNNERS
+### 2013 RUNNERS
 RUNNERS (M/F): 325/83 **(79.7%/20.3%)** TOTAL: 408
 
-###2014 LOTTERY
+### 2014 LOTTERY
 RUNNERS (M/F): 2189/515 **(81.0%/19.0%)** TOTAL: 2704
 TICKETS (M/F): 3548/759 **(82.4%/17.6%)** TOTAL: 4307
 
-###2014 RUNNERS
+### 2014 RUNNERS
 RUNNERS (M/F): 316/83 **(79.2%/20.8%)** TOTAL: 399
 
-###2015 LOTTERY
+### 2015 LOTTERY
 RUNNERS (M/F): 2072/494 **(80.7%/19.3%)** TOTAL: 2566
 TICKETS (M/F): 5547/1054 **(84.0%/16.0%)** TOTAL: 6601
 
-###2015 RUNNERS
+### 2015 RUNNERS
 RUNNERS (M/F): 305/83 **(78.6%/21.4%)** TOTAL: 388
 
-###2016 LOTTERY
+### 2016 LOTTERY
 RUNNERS (M/F): 2806/704 **(79.9%/20.1%)** TOTAL: 3510
 TICKETS (M/F): 6847/1444 **(82.6%/17.4%)** TOTAL: 8291
 
-###2016 RUNNERS
+### 2016 RUNNERS
 RUNNERS (M/F): 291/90 **(76.4%/23.6%)** TOTAL: 381
 
-###2017 LOTTERY
+### 2017 LOTTERY
 RUNNERS (M/F): 3429/819 **(80.7%/19.3%)** TOTAL: 4248
 TICKETS (M/F): 9106/1915 **(82.6%/17.4%)** TOTAL: 11021
 
-###2017 RUNNERS
+### 2017 RUNNERS
 RUNNERS (M/F): 284/85 **(77.0%/23.0%)** TOTAL: 369
 
-###2018 LOTTERY
+### 2018 LOTTERY
 RUNNERS (M/F): 3942/967 **(80.3%/19.7%)** TOTAL: 4909
 TICKETS (M/F): 12442/2632 **(82.5%/17.5%)** TOTAL: 15074
 
-###2018 RUNNERS
+### 2018 RUNNERS
 RUNNERS (M/F): 292/77 **(79.1%/20.9%)** TOTAL: 369
 
-###2019 LOTTERY
+### 2019 LOTTERY
 RUNNERS (M/F): 4689/1173 **(80.0%/20.0%)** TOTAL: 5862
 TICKETS (M/F): 16680/3439 **(82.9%/17.1%)** TOTAL: 20119
 
-###2019 RUNNERS
+### 2019 RUNNERS
 RUNNERS (M/F): 282/87 **(76.4%/23.6%)** TOTAL: 369
 
-###2020 LOTTERY
+### 2020 LOTTERY
 RUNNERS (M/F): 5288/1376 **(79.4%/20.6%)** TOTAL: 6664
 TICKETS (M/F): 23098/4774 **(82.9%/17.1%)** TOTAL: 27872
 
-###2020 RUNNERS (data not yet complete)
+### 2020 RUNNERS (data not yet complete)
 RUNNERS (M/F): 275/63 **(81.4%/18.6%)** TOTAL: 338
 
 Raw script output:
